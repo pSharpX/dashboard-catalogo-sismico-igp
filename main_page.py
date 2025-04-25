@@ -4,7 +4,6 @@ import numpy as np
 import helpers as utils
 
 st.title("Catálogo Sísmico 1960 - 2023")
-st.sidebar.markdown("# Overview 🎉")
 st.divider()
 
 st.markdown(

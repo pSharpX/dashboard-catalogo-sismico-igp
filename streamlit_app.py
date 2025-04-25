@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 
 # Define the pages
-main_page = st.Page("main_page.py", title="Main Page", icon="🏠")
-page_1 = st.Page("catalogo_sismico_page.py", title="Page 1", icon="🌎")
+main_page = st.Page("main_page.py", title="Inicio", icon="🏠")
+page_1 = st.Page("catalogo_sismico_page.py", title="Dashboard", icon="🌎")
 
 # Set up navigation
 pg = st.navigation([main_page, page_1])
