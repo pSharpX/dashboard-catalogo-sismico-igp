@@ -1,2 +1,6 @@
 # requirements.txt
-plotly
+numpy
+pandas
+pydot==1.4.2
+plotly==6.0.1
+streamlit==1.44.1
