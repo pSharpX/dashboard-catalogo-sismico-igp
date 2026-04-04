@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+*.tmp
+.venv/
+.env
+.git/
+.gitignore
+.DS_Store
+Dockerfile
